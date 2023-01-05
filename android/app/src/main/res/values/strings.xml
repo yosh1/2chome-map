@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">2chome-map</string>
+    <string name="title_activity_main">2chome-map</string>
+    <string name="package_name">com.map.2chome</string>
+    <string name="custom_url_scheme">com.map.2chome</string>
+</resources>
